@@ -11,6 +11,9 @@ import br.com.bumblebee.resource.ModeloResource;
 @SpringBootApplication
 @EnableAutoConfiguration
 public class BumblebeeApplication {
+	
+	
+	
 
 	public static void main(String[] args) {
 		SpringApplication.run(BumblebeeApplication.class, args);
